@@ -1,0 +1,3 @@
+//Create a Maven Project:
+mvn archetype:generate -DgroupId=com.example -DartifactId=BDDExample -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+cd BDDExample
