@@ -11,7 +11,7 @@ public class AdminPage {
     public void createUser(String username, String role) {
         // Code to fill in user details and submit the creation form
     }
-
+ 
     public boolean isUserPresent(String username) {
         // Code to verify if the user exists in the user list
         return true; // Simplified for example

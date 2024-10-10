@@ -5,7 +5,7 @@ import io.cucumber.java.en.*;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.junit.Assert;
-import com.example.api.UserAPI;
+import org.example.UserAPI;
 
 public class UserAPISteps {
 
