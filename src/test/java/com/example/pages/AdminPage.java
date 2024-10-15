@@ -1,7 +1,5 @@
 package com.example.pages;
 
-package com.example.pages;
-
 public class AdminPage {
 
     public void navigateToUserCreation() {
